@@ -43,8 +43,8 @@
 ### % Total revenue Year Difference
 ![% Total revenue Year Difference](https://github.com/DqpM/Test-Variance-etc/assets/133138864/97340e40-c9a8-414c-b355-431aee128e11)
 
-#### *Visualizing % Total Rev year diference and other revenue related measures in tooltips*
-![Visualizing % Total Rev year diference and other revenue related measures in tooltips](https://github.com/DqpM/Test-Variance-etc/assets/133138864/06e01cea-da20-4e79-824a-4da20959a1cc)
+#### *Visualizing % Total Rev year diference and other revenue related measures in tooltips (make sure to use or switch off filters if required, i.e year etc*
+![Visualizing % Total Rev year diference and other revenue related measures in tooltips](https://github.com/DqpM/Test-Variance-etc/assets/133138864/3c0332a6-81df-40e0-b7c1-5e470df9c249)
 
 ### Total Revenue on Weekend
 ![Total Revenue on Weekend](https://github.com/DqpM/Test-Variance-etc/assets/133138864/acb2c56b-a59d-44ea-b942-a951c3341b9c)
