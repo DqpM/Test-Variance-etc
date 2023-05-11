@@ -31,3 +31,23 @@
 ### Using SUM to calculate revenue
 ![Calculating Revenue](https://github.com/DqpM/Test-Variance-etc/assets/133138864/b0ff2584-892c-451a-b479-2ed0c32bdf0d)
 
+### Total Revenue previous year
+![Total Revenue Previous Year](https://github.com/DqpM/Test-Variance-etc/assets/133138864/11683d3b-8fd9-459c-8af0-3c859ca1aa19)
+
+#### *Visualizing Total Revenue previous year*
+![Visualizing total revenue prev year](https://github.com/DqpM/Test-Variance-etc/assets/133138864/0ffd313d-671c-43f2-b6dd-fa543f661658)
+
+### Total Revenue year difference (Variance)
+![Total Revenue Year difference](https://github.com/DqpM/Test-Variance-etc/assets/133138864/487d5236-50c4-495a-8d46-be9b1209aa50)
+
+### % Total revenue Year Difference
+![% Total revenue Year Difference](https://github.com/DqpM/Test-Variance-etc/assets/133138864/97340e40-c9a8-414c-b355-431aee128e11)
+
+#### *Visualizing % Total Rev year diference and other revenue related measures in tooltips*
+![Visualizing % Total Rev year diference and other revenue related measures in tooltips](https://github.com/DqpM/Test-Variance-etc/assets/133138864/06e01cea-da20-4e79-824a-4da20959a1cc)
+
+
+
+
+### COUNTROWS to find number of orders
+![COUNTROWS to find number of orders](https://github.com/DqpM/Test-Variance-etc/assets/133138864/efa58f85-dde6-45ca-a5c4-97f7ffc0dc0e)
