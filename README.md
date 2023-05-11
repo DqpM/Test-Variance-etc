@@ -55,3 +55,9 @@
 
 ### COUNTROWS to find number of orders
 ![COUNTROWS to find number of orders](https://github.com/DqpM/Test-Variance-etc/assets/133138864/efa58f85-dde6-45ca-a5c4-97f7ffc0dc0e)
+
+### Using AverageX to Calculate 21 Day Moving Average
+![Using AverageX to Calculate 21 Day Moving Average](https://github.com/DqpM/Test-Variance-etc/assets/133138864/5a135de2-033d-429d-97b7-8152e1bc58e3)
+
+#### *Visualizing moving averages*
+![Visualizing moving averages](https://github.com/DqpM/Test-Variance-etc/assets/133138864/e1a74fcc-897c-4b8f-adfb-3d22a12e7e55)
