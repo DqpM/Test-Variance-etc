@@ -46,7 +46,11 @@
 #### *Visualizing % Total Rev year diference and other revenue related measures in tooltips*
 ![Visualizing % Total Rev year diference and other revenue related measures in tooltips](https://github.com/DqpM/Test-Variance-etc/assets/133138864/06e01cea-da20-4e79-824a-4da20959a1cc)
 
+### Total Revenue on Weekend
+![Total Revenue on Weekend](https://github.com/DqpM/Test-Variance-etc/assets/133138864/acb2c56b-a59d-44ea-b942-a951c3341b9c)
 
+### Total Revenue not Weekend
+![Total Revenue not Weekend](https://github.com/DqpM/Test-Variance-etc/assets/133138864/4522ed2e-d87d-4014-b4f9-1ead95a748d8)
 
 
 ### COUNTROWS to find number of orders
